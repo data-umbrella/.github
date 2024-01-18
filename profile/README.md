@@ -1,6 +1,6 @@
-## Hi there 👋
+# Welcome to Data Umbrella!
 
-🙋‍♀️ At Data Umbrella we organize data science and open source events for the community.
+Hi there 👋: At Data Umbrella we organize data science and open source events for the community.
 
 - 🧙 **Get involved**: We also have a series of [open source projects](https://dev.dataumbrella.org/) we are working on.
 - 👩‍💻 **Our past events**: Our events are recorded and available on the [Data Umbrella YouTube channel](https://www.youtube.com/c/dataumbrella).
