@@ -6,6 +6,15 @@ Hi there 👋: At Data Umbrella we organize data science and open source events 
 - 👩‍💻 **Our past events**: Our events are recorded and available. Subscribe to our [Data Umbrella YouTube channel](https://www.youtube.com/c/dataumbrella).
 - 🗓️ **Upcoming events**: Join our [Meetup Group](https://www.meetup.com/data-umbrella/) for upcoming events.
 
+## Open Source
+
+### scikit-learn
+- Check out our [scikit-learn contributing resources](https://github.com/data-umbrella/data-umbrella-scikit-learn-sprint).
+- [Contributing Videos and Resources](https://www.dataumbrella.org/open-source/contributing-to-scikit-learn) 
+
+### PyMC
+- Check out our [PyMC contributing resources](https://pymc-data-umbrella.xyz)
+- [Contributing Videos and Resources](https://www.dataumbrella.org/open-source/contributing-to-pymc)
 
 <!--
 
