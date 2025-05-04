@@ -11,7 +11,7 @@ The following Data Umbrella repositories have been configured with the `all-cont
 
 - Events & Timestamps: [event-transcripts](https://github.com/data-umbrella/event-transcripts)
 - Blog: [data-umbrella.github.io](https://github.com/data-umbrella/data-umbrella.github.io)
-- * TO DO * - Website: [data-umbrella-website](https://github.com/data-umbrella/data-umbrella-website)
+- TO DO - Website: [data-umbrella-website](https://github.com/data-umbrella/data-umbrella-website)
 
 
 ### Type of Contributions
