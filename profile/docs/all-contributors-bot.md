@@ -15,15 +15,18 @@ https://allcontributors.org/docs/en/bot/installation
 Note: update your org and repo names
 Example repo: https://github.com/data-umbrella/event-transcripts
 
-Example 1
-```
+**Example 1**: blog - [data-umbrella.github.io](https://github.com/data-umbrella/data-umbrella.github.io/README.md)
+```plaintext
 ![All Contributors](https://img.shields.io/github/all-contributors/data-umbrella/data-umbrella.github.io?color=ee8449&style=flat-square)
 ```
+This is what it looks like rendered: 
+![All Contributors](https://img.shields.io/github/all-contributors/data-umbrella/data-umbrella.github.io?color=ee8449&style=flat-square)
 
-Example 2
-```
+**Example 2**: [event-transcripts](https://github.com/data-umbrella/event-transcripts/README.md)
+```plaintext
 ![All Contributors](https://img.shields.io/github/all-contributors/data-umbrella/event-transcripts?color=ee8449&style=flat-square)
 ```
+
 This is what it looks like rendered: 
 ![All Contributors](https://img.shields.io/github/all-contributors/data-umbrella/event-transcripts?color=ee8449&style=flat-square)
 
@@ -40,7 +43,7 @@ This is what it looks like rendered:
 ```
 
 ### Step 3: Add the `.all-contributorsrc` file at root of repo
-add this file
+add this file:  
 .all-contributorsrc
 
 add this info to the file (update repo name)
@@ -65,7 +68,9 @@ Example of issues:
 
 2. Syntax:
 
-`all-contributors add @github_user_name contribution_type`
+```
+all-contributors add @github_user_name contribution_type
+```
 
 
 ```
