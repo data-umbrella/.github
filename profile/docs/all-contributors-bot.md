@@ -42,7 +42,15 @@ This is what it looks like rendered:
 ### Step 3: Add the `.all-contributorsrc` file at root of repo
 add this file: `.all-contributorsrc`
 
-add this info to the file (update organization and repo names)
+syntax:  
+```json
+{
+  "projectName": "<insert the repo's name>",
+  "projectOwner": "<insert the repo's owner/orgs>"
+}
+```
+
+Example: (update with your organization and repo names)
 ```json
 {
   "projectName": "event-transcripts",
