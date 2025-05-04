@@ -10,7 +10,7 @@ The [All Contributors](https://allcontributors.org/) is to recognize All Contrib
 The following Data Umbrella repositories have been configured with the `all-contributors` bot:  
 
 - Events & Timestamps: [event-transcripts](https://github.com/data-umbrella/event-transcripts)
-- Blog: [data-umbrealla.github.io](https://github.com/data-umbrella/data-umbrella.github.io)
+- Blog: [data-umbrella.github.io](https://github.com/data-umbrella/data-umbrella.github.io)
 - TO SET UP, website: [data-umbrella-website](https://github.com/data-umbrella/data-umbrella-website)
 
 
@@ -52,7 +52,9 @@ Example of issues:
 - Add for organizing events: https://github.com/data-umbrella/data-umbrella.github.io/issues/123
 
 2. Syntax:
-`all-contributors add @github_user_name [contribution_type](https://allcontributors.org/docs/en/emoji-key)
+```
+all-contributors add @github_user_name [contribution_type](https://allcontributors.org/docs/en/emoji-key)
+```
 
 ```
 @all-contributors add @coni2k promotion
@@ -61,5 +63,5 @@ Example of issues:
 @all-contributors add @sandyweng promotion
 ```
 ```
-@all-contributors please add @Cristinamulas eventOrganizing
+@all-contributors add @Cristinamulas eventOrganizing
 ```
