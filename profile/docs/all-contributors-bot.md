@@ -40,10 +40,9 @@ This is what it looks like rendered:
 ```
 
 ### Step 3: Add the `.all-contributorsrc` file at root of repo
-add this file:  
-.all-contributorsrc
+add this file: `.all-contributorsrc`
 
-add this info to the file (update repo name)
+add this info to the file (update organization and repo names)
 ```json
 {
   "projectName": "event-transcripts",
@@ -51,32 +50,42 @@ add this info to the file (update repo name)
 }
 ```
 
-More information on bot configuration and options: https://allcontributors.org/docs/en/bot/configuration
+**Examples of `.all-contributorsrc` files**
+- event-transcripts: [.all-contributorsrc](https://github.com/data-umbrella/event-transcripts/blob/main/.all-contributorsrc)
+- data-umbrella.github.io (blog): [.all-contributorsrc](https://github.com/data-umbrella/data-umbrella.github.io/blob/main/.all-contributorsrc)
+
+
+Note: More information on bot configuration and options: https://allcontributors.org/docs/en/bot/configuration
 
 
 ### Step 4: Add a contributor with the bot
 There are various types of [Contributions](https://allcontributors.org/docs/en/emoji-key).
 
-1. Open up an issue
-Example of issues:  
+#### Step 4a: Open up an issue
+
+**Example of issues:**    
 - Add timestamps contributor, samvmdev: https://github.com/data-umbrella/event-transcripts/issues/282
 - Add community member:  https://github.com/data-umbrella/event-transcripts/issues/244
 - Add for organizing events: https://github.com/data-umbrella/data-umbrella.github.io/issues/123
 
-2. Syntax:
 
-```
-all-contributors add @github_user_name contribution_type
+#### Step 4b: Using the @all-contributor bot = = > in action
+Add various types of [contributions](https://allcontributors.org/docs/en/emoji-key):  
+
+Syntax:   
+```markdown
+@all-contributors add @github_user_name contribution_type
 ```
 
-
-```
+**Examples of syntax:** 
+```markdown
 @all-contributors add @coni2k promotion
 ```
-```
+
+```markdown
 @all-contributors add @sandyweng promotion
 ```
-```
+
+```markdown
 @all-contributors add @Cristinamulas eventOrganizing
 ```
-
