@@ -1,9 +1,6 @@
 
 # [All Contributors](https://allcontributors.org/) Bot
 
-[Installation Instructions](https://allcontributors.org/docs/en/bot/installation)
-
-
 ### Step 1: Install the bot (can do it at the organization or repo level)
 
 https://allcontributors.org/docs/en/bot/installation
