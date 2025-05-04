@@ -9,9 +9,10 @@ The [All Contributors](https://allcontributors.org/) is to recognize All Contrib
 
 The following Data Umbrella repositories have been configured with the `all-contributors` bot:  
 
-- [event-transcripts](https://github.com/data-umbrella/event-transcripts)
-- blog: [data-umbrealla.github.io](https://github.com/data-umbrella/data-umbrella.github.io)
+- Events & Timestamps: [event-transcripts](https://github.com/data-umbrella/event-transcripts)
+- Blog: [data-umbrealla.github.io](https://github.com/data-umbrella/data-umbrella.github.io)
 - TO SET UP, website: [data-umbrella-website](https://github.com/data-umbrella/data-umbrella-website)
+
 
 ### Type of Contributions
 There are various types of [Contributions](https://allcontributors.org/docs/en/emoji-key). Some examples:  
@@ -40,6 +41,8 @@ There are various types of [Contributions](https://allcontributors.org/docs/en/e
 [1] Anyone in the community can open an issue to recognize a contributor and suggest adding them.
 
 [2] Only a repo maintainer can run the syntax for `all-contributors` bot.  
+
+[3] Contributors who have submitted pull requests to the repo need to be added via the bot to appear in the "Contributing" section of the README.md.
 
 ### Instructions
 1. Open up an issue
